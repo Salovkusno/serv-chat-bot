@@ -1,0 +1,16 @@
+
+d
+java:S1192
+"IDefine a constant instead of duplicating this literal "JavaRush" 4 times.(Ý¾Ìßÿÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰ýáä
+X
+java:S1854
+"6Remove this useless assignment to local variable "s1".(Ý¾Ìßÿÿÿÿÿ8Íó‹ÝÝ1
+;
+java:S2129
+" Remove this "String" constructor(Ý¾Ìßÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Þðóþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‰ýáä
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘Ñãã
+E	java:S106"+Replace this use of System.out by a logger.(Çõ ôùÿÿÿÿ

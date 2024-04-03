@@ -1,0 +1,8 @@
+
+o
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8æï½€×1
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(ÉãË•ùÿÿÿÿ8¬«Ñ€×1
+G	java:S106"+Replace this use of System.out by a logger.(žÃ„ç8­«Ñ€×1
+L	java:S106"+Replace this use of System.out by a logger.(žéíƒÿÿÿÿÿ8®«Ñ€×1

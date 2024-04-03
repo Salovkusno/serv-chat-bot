@@ -1,0 +1,22 @@
+
+l
+java:S1104"VMake firstArray a static final constant or non-public and provide accessors if needed.(Ý¶´‰
+m
+java:S1104	"WMake secondArray a static final constant or non-public and provide accessors if needed.(•íð¿
+m
+java:S1104
+"WMake resultArray a static final constant or non-public and provide accessors if needed.(”ÐÄñ
+F
+java:S1444"0Make this "public static firstArray" field final(Ý¶´‰
+G
+java:S1444	"1Make this "public static secondArray" field final(•íð¿
+G
+java:S1444
+"1Make this "public static resultArray" field final(”ÐÄñ
+3
+java:S2386"Make this member "protected".(Ý¶´‰
+3
+java:S2386	"Make this member "protected".(•íð¿
+A
+java:S2386"&Make member "resultArray" "protected".(ŒŽ¤ßúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¶»½Ðþÿÿÿÿ

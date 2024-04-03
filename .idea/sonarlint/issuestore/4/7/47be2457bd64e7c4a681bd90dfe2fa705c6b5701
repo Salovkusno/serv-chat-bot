@@ -1,0 +1,7 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(Ѓ™†Ш8М‘э≥и1
+£
+java:S1186"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(н‘я¬ю€€€€8Н‘э≥и1
+Ю
+java:S1186""АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(гнЊє8О‘э≥и1

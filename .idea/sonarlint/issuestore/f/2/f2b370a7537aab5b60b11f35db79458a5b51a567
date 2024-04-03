@@ -1,0 +1,10 @@
+
+^
+java:S1226#"AIntroduce a new variable instead of reusing the parameter "name".(Ø¡Öç8á‚‚²è1
+r	java:S106"+Replace this use of System.out by a logger.(Í‰ÊËýÿÿÿÿ8ó«€²è1J$94131ad3-bde8-41d5-9004-e79415966113
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öÜœÛýÿÿÿÿ8õ«€²è1J$7f5e8030-1cae-4573-9514-53925a64fb0f
+‚
+java:S1161 ":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ8ù«€²è1J$dea560e8-cd56-4a11-ae3a-7dc28d28933c
+‚
+java:S1161"":Add the "@Override" annotation above this method signature(÷¦šðþÿÿÿÿ8ú«€²è1J$a990dc85-2b39-4be7-8979-16c1ff094f1c

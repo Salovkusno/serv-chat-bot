@@ -1,0 +1,21 @@
+
+N
+java:S1874",Remove this use of "Date"; it is deprecated.(³¸„ ıÿÿÿÿ8›µ—‘ã1
+I
+java:S1874",Remove this use of "Date"; it is deprecated.(ö€¡È8œµ—‘ã1
+I
+java:S1874",Remove this use of "Date"; it is deprecated.(Í²Ñä8œµ—‘ã1
+H
+java:S1874",Remove this use of "Date"; it is deprecated.(²°Ø*8œµ—‘ã1
+F	java:S106"+Replace this use of System.out by a logger.(«¼ú^8œµ—‘ã1
+G	java:S106"+Replace this use of System.out by a logger.(ÍÇó¿8µ—‘ã1
+L	java:S106"+Replace this use of System.out by a logger.(Àõ†ëúÿÿÿÿ8µ—‘ã1
+G	java:S106"+Replace this use of System.out by a logger.(ÍÇó¿8µ—‘ã1
+L
+java:S1874!"/Remove this use of "setYear"; it is deprecated.(˜ã†¹8µ—‘ã1
+L
+java:S1874!"/Remove this use of "getYear"; it is deprecated.(˜ã†¹8‰’¶‘ã1
+R
+java:S1874""0Remove this use of "setMonth"; it is deprecated.(˜÷¿Ûûÿÿÿÿ8Ÿµ—‘ã1
+R
+java:S1874""0Remove this use of "getMonth"; it is deprecated.(˜÷¿Ûûÿÿÿÿ8ş‡Á‘ã1

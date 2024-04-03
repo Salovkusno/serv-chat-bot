@@ -1,0 +1,6 @@
+
+L	java:S106 "+Replace this use of System.out by a logger.(γν΄δόÿÿÿÿ8ζ†‡γγ1
+c
+java:S1126."AReplace this if-then-else statement by a single return statement.(ΐ‡ÿÿÿÿÿ8ΎΑ‡γγ1
+R
+java:S1128"0Remove this unused import 'java.time.DayOfWeek'.(Σς»Έώÿÿÿÿ8θ†‡γγ1

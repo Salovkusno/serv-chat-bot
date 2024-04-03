@@ -1,0 +1,9 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Úİ÷¶8¡£•ê1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ü•®ışÿÿÿÿ8££•ê1
+>	java:S131#""Add a default case to this switch.(°Ó÷8¤£•ê1
+d
+java:S20943"BRemove this empty class, write its code or make it an "interface".(á–ÎÎúÿÿÿÿ8¥£•ê1
+g
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(á–ÎÎúÿÿÿÿ8¥£•ê1

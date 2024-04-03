@@ -1,0 +1,6 @@
+
+Š
+java:S1319"hThe type of "accounts" should be an interface such as "List" rather than the implementation "ArrayList".(«ÞÔüÿÿÿÿ8¶¸æå1
+F	java:S106"+Replace this use of System.out by a logger.(”îÅR8Ê¸æå1
+[
+java:S1612">Replace this lambda with method reference 'Account::getEmail'.(éêˆ˜8øÿœæå1

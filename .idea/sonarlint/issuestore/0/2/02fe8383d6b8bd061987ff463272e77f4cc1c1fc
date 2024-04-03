@@ -1,0 +1,8 @@
+
+k
+java:S2095"IUse try-with-resources or close this "InputStream" in a "finally" clause.(ºÃé°ÿÿÿÿÿ8¯É–òâ1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8ÀÉ–òâ1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8«ç–òâ1
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8«ç–òâ1

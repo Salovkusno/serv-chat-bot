@@ -1,0 +1,18 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¡èÿÿÿÿÿ8¦²Ü¢ê1J$94a9bf9e-b0a7-45ae-b65e-f54fded752e4
+
+java:S1104"VMake exceptions a static final constant or non-public and provide accessors if needed.(ø¡èÿÿÿÿÿ8¨²Ü¢ê1J$e916463c-9355-458f-8f91-7d1291976f87
+x
+java:S1444"0Make this "public static exceptions" field final(ø¡èÿÿÿÿÿ8¨²Ü¢ê1J$0f613753-508b-4862-8421-7c9e05355ee3
+„
+java:S2184"ACast one of the operands of this division operation to a "float".(‰£Ò¥8©²Ü¢ê1J$7b29ca55-d5cb-4ad4-9749-ce3583e64f3d
+†
+java:S3518"CMake sure this expression can't be zero before doing this division.(‰£Ò¥8˜‰ä¢ê1J$1bc396be-30d4-43d1-8da3-7373f91968e5
+e
+java:S2386"Make this member "protected".(ø¡èÿÿÿÿÿ8­²Ü¢ê1J$a260a0b0-253b-4946-85e2-a9cf42ed4e28
+r	java:S106"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ8±²Ü¢ê1J$e4514856-16cd-482b-b58c-a056e7f527ba
+x
+java:S1854"5Remove this useless assignment to local variable "i".(‰£Ò¥8²²Ü¢ê1J$83743045-621a-4317-9c1c-7a3392645479
+i
+java:S1481"&Remove this unused "i" local variable.(‰£Ò¥8³²Ü¢ê1J$6bdffa89-a7ae-4124-b0b5-d01be4cfd624

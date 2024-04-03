@@ -1,0 +1,26 @@
+
+u
+java:S1192%"YDefine a constant instead of duplicating this literal "Ğ§Ğ»ĞµĞ½ ÑĞºĞ¸Ğ¿Ğ°Ğ¶Ğ° " 3 times.(´’Ác8µÍòää1
+‡
+java:S1319
+"jThe type of "astronauts" should be an interface such as "List" rather than the implementation "ArrayList".(²×ô¤8µÍòää1
+s
+java:S1104
+"VMake astronauts a static final constant or non-public and provide accessors if needed.(²×ô¤8¶Íòää1
+M
+java:S1444
+"0Make this "public static astronauts" field final(²×ô¤8¶Íòää1
+:
+java:S2386
+"Make this member "protected".(²×ô¤8¿£û„å1
+b
+java:S6201"EReplace this instanceof check and cast with 'instanceof Human human1'(õ’õÈ8Ú£û„å1
+\
+java:S6201"@Replace this instanceof check and cast with 'instanceof Dog dog'(ÿ‚şe8Ü£û„å1
+b
+java:S6201"@Replace this instanceof check and cast with 'instanceof Cat cat'(°Ğïîüÿÿÿÿ8Ş£û„å1
+F	java:S106%"+Replace this use of System.out by a logger.(´’Ác8ÁÍòää1
+F	java:S106)"+Replace this use of System.out by a logger.(©£à{8ÂÍòää1
+G	java:S106-"+Replace this use of System.out by a logger.(âÀ¬8ÃÍòää1
+G	java:S1068"+Replace this use of System.out by a logger.(Â¬üÆ8ÅÍòää1
+L	java:S106:"+Replace this use of System.out by a logger.(î³—Ñÿÿÿÿÿ8ÆÍòää1

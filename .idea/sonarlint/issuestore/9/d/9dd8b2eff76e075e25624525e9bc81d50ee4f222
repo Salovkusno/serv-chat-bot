@@ -1,0 +1,5 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¿Çœú8Ô£ ãâ1
+G	java:S106"+Replace this use of System.out by a logger.(Ëªˆ¤8Ï€Ÿãâ1
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8Õ£ ãâ1

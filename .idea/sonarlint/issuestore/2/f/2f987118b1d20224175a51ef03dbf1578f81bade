@@ -1,0 +1,20 @@
+
+’
+java:S1104"OMake NEO a static final constant or non-public and provide accessors if needed.(„ğ»Ë8¼÷ÀØè1J$bccb89c9-744c-4810-b78f-11853f551e95
+›
+java:S1104"SMake TRINITY a static final constant or non-public and provide accessors if needed.(ş…èãüÿÿÿÿ8¼÷ÀØè1J$f8cdc557-a49e-485a-b036-aca13b49823b
+l
+java:S1444")Make this "public static NEO" field final(„ğ»Ë8½÷ÀØè1J$53459fc6-2375-4ea3-ba7a-848e8b5aad65
+u
+java:S1444"-Make this "public static TRINITY" field final(ş…èãüÿÿÿÿ8½÷ÀØè1J$be64d86f-4a9d-469b-9877-216dd143d301
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ä÷ÀØè1J$1200f887-af6a-4069-b3a1-b0576f3d3966
+m	java:S106	"+Replace this use of System.out by a logger.(ˆÔ Ê8Å÷ÀØè1J$b86ce1e8-9f40-49b1-af5f-2d1f3a048a30
+r	java:S106
+"+Replace this use of System.out by a logger.(ñııÉûÿÿÿÿ8Å÷ÀØè1J$a21e74b3-af6f-4dd8-a23b-8823f1b73b8b
+‘
+java:S3008"NRename this field "NEO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ğ»Ë8Æ÷ÀØè1J$1f8326df-cebc-4525-81df-dfd0e08d5f45
+š
+java:S3008"RRename this field "TRINITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş…èãüÿÿÿÿ8Æ÷ÀØè1J$f382c89d-18ef-4844-a640-c417880a85f2
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¸Ó¶½8Ç÷ÀØè1J$af6c1993-947f-4bd3-98a3-91579e71f6df

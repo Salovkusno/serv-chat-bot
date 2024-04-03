@@ -1,0 +1,11 @@
+
+C
+java:S2885"&Make "birthDate" an instance variable.(²à…‹8ºáñ“ã1
+L	java:S106"+Replace this use of System.out by a logger.(™ŞÆøüÿÿÿÿ8»áñ“ã1
+C	java:S131""Add a default case to this switch.(ì»¾úÿÿÿÿ8¼áñ“ã1
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8Ùİú“ã1
+R
+java:S1128"0Remove this unused import 'java.util.Formatter'.(±¤ğÃùÿÿÿÿ8¾áñ“ã1
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8Ùİú“ã1

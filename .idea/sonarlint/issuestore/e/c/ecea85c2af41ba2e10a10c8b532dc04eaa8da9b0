@@ -1,0 +1,9 @@
+
+’
+java:S6201"JReplace this instanceof check and cast with 'instanceof Drawable drawable'(Ó†ã×úÿÿÿÿ8ûôÙüé1J$7a6b2860-44db-4e4a-a709-60262d4a1ae9
+‹
+java:S6201"HReplace this instanceof check and cast with 'instanceof Movable movable'(˜‰Ëá8ïÚÚüé1J$e97decb5-ed40-4eec-9b02-323a25a2143e
+r	java:S106$"+Replace this use of System.out by a logger.(™‚¹üÿÿÿÿ8şôÙüé1J$df764508-0b06-4311-8bde-67e172f75946
+m	java:S106("+Replace this use of System.out by a logger.(«Å¡‘8€õÙüé1J$e8796ad1-3414-4969-bd4d-c104ba91ed0d
+r	java:S1063"+Replace this use of System.out by a logger.(™‚¹üÿÿÿÿ8€õÙüé1J$5cb8d543-a952-4897-973d-f3d764c4fbbf
+m	java:S1067"+Replace this use of System.out by a logger.(«Å¡‘8€õÙüé1J$fb86f382-1593-487c-8a34-d981c4ab3aba

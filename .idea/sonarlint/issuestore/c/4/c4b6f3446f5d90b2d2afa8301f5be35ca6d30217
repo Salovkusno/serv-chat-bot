@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(şÂ€İ8º˜‡æ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Ü‡æ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ü‡æ1

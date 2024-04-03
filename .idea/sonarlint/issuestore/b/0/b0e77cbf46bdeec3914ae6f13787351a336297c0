@@ -1,0 +1,15 @@
+
+΅
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Φ›Τψÿÿÿÿ8Ψτηµθ1J$c75fc0e7-fde9-4cec-a3ef-dcf09882ea90
+΅
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£σΰΟÿÿÿÿÿ8Ωτηµθ1J$72bc6d8f-3cca-4988-8e4b-fedbb378779f
+
+java:S1104 "MMake x a static final constant or non-public and provide accessors if needed.(µΞΌ8Ωτηµθ1J$f0093ed5-f1d7-40ae-9e93-1cfc61c1e471
+•
+java:S1104!"MMake y a static final constant or non-public and provide accessors if needed.(¬„®Ϊÿÿÿÿÿ8Ωτηµθ1J$37a09623-63d2-4188-bb0c-51962f8b694c
+΄
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΩΨ¤ήύÿÿÿÿ8γτηµθ1J$c862a8c9-0029-4510-b31e-f40d8aa5c83c
+r	java:S106"+Replace this use of System.out by a logger.(ρΘύÿÿÿÿ8δτηµθ1J$e7e5c7d1-7f58-4a98-be90-10efb900532c
+r	java:S106"+Replace this use of System.out by a logger.(Η³›ωÿÿÿÿ8ετηµθ1J$3cf36a47-db9d-4d5c-ae21-7a2fb96f42da
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Π―λ8κτηµθ1J$ba33e7aa-c2d0-43a1-af5b-0ae1eaa4e9d4

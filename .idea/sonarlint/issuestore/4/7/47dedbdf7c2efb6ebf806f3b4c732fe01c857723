@@ -1,0 +1,33 @@
+
+t
+java:S1104"YMake nimrodDefence a static final constant or non-public and provide accessors if needed.(Ú–ŸÑùÿÿÿÿ
+n
+java:S1104	"XMake nimrodAttack a static final constant or non-public and provide accessors if needed.(úÀ Á
+t
+java:S1104
+"YMake nimrodDestroy a static final constant or non-public and provide accessors if needed.(úÈ¬¸úÿÿÿÿ
+p
+java:S1104"ZMake galavirDefence a static final constant or non-public and provide accessors if needed.(ÆŸ¯ê
+t
+java:S1104"YMake galavirAttack a static final constant or non-public and provide accessors if needed.(¾œëşÿÿÿÿ
+u
+java:S1104"ZMake galavirDestroy a static final constant or non-public and provide accessors if needed.(£³§áøÿÿÿÿ
+N
+java:S1444"3Make this "public static nimrodDefence" field final(Ú–ŸÑùÿÿÿÿ
+H
+java:S1444	"2Make this "public static nimrodAttack" field final(úÀ Á
+N
+java:S1444
+"3Make this "public static nimrodDestroy" field final(úÈ¬¸úÿÿÿÿ
+J
+java:S1444"4Make this "public static galavirDefence" field final(ÆŸ¯ê
+N
+java:S1444"3Make this "public static galavirAttack" field final(¾œëşÿÿÿÿ
+O
+java:S1444"4Make this "public static galavirDestroy" field final(£³§áøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ì¶÷øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(üœú
+@	java:S106""+Replace this use of System.out by a logger.(³¦ğê
+?	java:S106%"+Replace this use of System.out by a logger.(©¬*
+@	java:S106,"+Replace this use of System.out by a logger.(½¤òä
+E	java:S106/"+Replace this use of System.out by a logger.(Ñ£ö“ùÿÿÿÿ

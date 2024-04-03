@@ -1,0 +1,6 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(õöÉíûÿÿÿÿ8íÅ•†æ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥8ïÅ•†æ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ñÅ•†æ1

@@ -1,0 +1,15 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "dog".(àÄ‘¯øÿÿÿÿ8™´˜ è1
+T
+java:S1854"7Remove this useless assignment to local variable "cat".(ñ¤Ş³8™´˜ è1
+E
+java:S1481"(Remove this unused "cat" local variable.(ñ¤Ş³8›´˜ è1
+J
+java:S1481"(Remove this unused "dog" local variable.(àÄ‘¯øÿÿÿÿ8›´˜ è1
+\
+java:S1161":Add the "@Override" annotation above this method signature(é—ë®ÿÿÿÿÿ8´˜ è1
+W
+java:S1161!":Add the "@Override" annotation above this method signature(¤‡æî8´˜ è1
+h
+java:S1128"FRemove this unused import 'com.javarush.task.pro.task17.task1705.Cat'.(›ı´÷ùÿÿÿÿ8Ÿ´˜ è1

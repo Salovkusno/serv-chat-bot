@@ -1,0 +1,24 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ı§Ìşÿÿÿÿ8Úàª¢ê1J$0310ce81-8c95-4a78-9da7-d6a1a4ab3f17
+‰
+java:S2184)"ACast one of the operands of this division operation to a "float".(½–Éúúÿÿÿÿ8ÜÓ©¢ê1J$5f52d11a-4ccd-4c90-89eb-a2add6b382be
+ˆ
+java:S6201"@Replace this instanceof check and cast with 'instanceof Float a'(äÊ£ôùÿÿÿÿ8¸©¬¢ê1J$1298d82c-fcc7-4a1a-b1d5-a36fbf01a4ba
+m	java:S106"+Replace this use of System.out by a logger.(¬«™Â8ìÓ©¢ê1J$f2f3f2b5-44f3-4619-8a53-c92ee7ffdb01
+„
+java:S6201"AReplace this instanceof check and cast with 'instanceof Double a'(õÁö8¹©¬¢ê1J$e64577b0-7932-4043-8405-64817ed80bde
+r	java:S106"+Replace this use of System.out by a logger.(©áÊìüÿÿÿÿ8¹©¬¢ê1J$756e861e-4860-4fd0-b318-c752dbeff8b7
+m	java:S106"+Replace this use of System.out by a logger.(ŸÏÍè8Éñ¬¢ê1J$ea4d7719-c488-47f9-b3fe-599492566410
+c
+java:S2129'" Remove this "Double" constructor(şüŠô8éÓ©¢ê1J$9ceb66b4-598d-45c3-854e-e890983b364b
+‹
+java:S5738'"HRemove this call to a deprecated method, it has been marked for removal.(şüŠô8éÓ©¢ê1J$0106ecae-f889-49fe-bb19-99b3c4add733
+Š
+java:S5738("HRemove this call to a deprecated method, it has been marked for removal.(¨ï¦	8êÓ©¢ê1J$159af335-8301-4bfb-aa80-8fb0ef9033c3
+g
+java:S2129)"Remove this "Float" constructor(½–Éúúÿÿÿÿ8êÓ©¢ê1J$3d9540a3-e4eb-4613-b36e-750de57bf6f0
+
+java:S5738)"HRemove this call to a deprecated method, it has been marked for removal.(½–Éúúÿÿÿÿ8êÓ©¢ê1J$e13892f9-a4b2-4984-8cbc-f215b434c263
+‹
+java:S5738*"HRemove this call to a deprecated method, it has been marked for removal.(Ôã‘Ì8êÓ©¢ê1J$244001d0-0f99-4dbf-8ea1-2b9fa315d340

@@ -1,0 +1,9 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(î·Éÿ8¿Þ²ðé1
+L	java:S106"+Replace this use of System.out by a logger.(‘ßÖ¸ûÿÿÿÿ8ÀÞ²ðé1
+L	java:S106"+Replace this use of System.out by a logger.(þÓÁ†ùÿÿÿÿ8ÁÞ²ðé1
+F	java:S106"+Replace this use of System.out by a logger.(„ÅÃ8ÁÞ²ðé1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÅÄÊòÿÿÿÿÿ8ÂÞ²ðé1
+j
+java:S1128"MRemove this unused import 'com.javarush.task.task14.task1406.Solution.Mouse'.(­é¯á8ÃÞ²ðé1

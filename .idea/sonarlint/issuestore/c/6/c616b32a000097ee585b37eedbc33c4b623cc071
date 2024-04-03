@@ -1,0 +1,17 @@
+
+L	java:S106	"+Replace this use of System.out by a logger.(¨óŒøÿÿÿÿ8ÄÌ±²è1
+L	java:S106
+"+Replace this use of System.out by a logger.(Ğ“«“ÿÿÿÿÿ8ÅÌ±²è1
+L	java:S106"+Replace this use of System.out by a logger.(Áãäıÿÿÿÿ8ÅÌ±²è1
+G	java:S106"+Replace this use of System.out by a logger.(ú¿‰8ÅÌ±²è1
+G	java:S106"+Replace this use of System.out by a logger.(ÇœŒ†8ÆÌ±²è1
+d
+java:S2094#"BRemove this empty class, write its code or make it an "interface".(ÿ¯ùåúÿÿÿÿ8ÇÌ±²è1
+_
+java:S2094&"BRemove this empty class, write its code or make it an "interface".(Ñì½ş8ÈÌ±²è1
+d
+java:S2094)"BRemove this empty class, write its code or make it an "interface".(éÃğ“ıÿÿÿÿ8ÈÌ±²è1
+_
+java:S2094,"BRemove this empty class, write its code or make it an "interface".(¯¢³Ñ8ÈÌ±²è1
+d
+java:S2094/"BRemove this empty class, write its code or make it an "interface".(›ÕÚ›ıÿÿÿÿ8ÈÌ±²è1

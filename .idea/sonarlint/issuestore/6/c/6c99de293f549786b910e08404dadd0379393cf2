@@ -1,0 +1,9 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ƒ¶­Ó8“…ãÎé1J$4a8d73fb-03c7-47af-a174-e0186b253926
+m	java:S106"+Replace this use of System.out by a logger.(ÿôĞ³8”…ãÎé1J$1638294b-acc3-407c-a7f2-d55970cd757a
+x
+java:S2209"5Change this instance-reference to a static reference.(ÿôĞ³8”…ãÎé1J$d7316532-ecf2-4095-b109-c2d601aac418
+˜
+java:S3008"PRename this field "INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÍßÚıÿÿÿÿ8—…ãÎé1J$213a1f7a-769b-4ddc-91ee-4dca67119bcf
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(–¶çŒøÿÿÿÿ8™…ãÎé1J$0aeaf881-6a5a-41de-9158-cd4cc7cccf2d

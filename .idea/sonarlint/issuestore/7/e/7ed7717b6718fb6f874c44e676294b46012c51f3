@@ -1,0 +1,8 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(פת¥ֳ‏ÿÿÿÿ8ֹûƒני1J$d716dca4-7e27-4c4f-b151-28a2804a47dd
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(סÊױזÿÿÿÿÿ8•½ûןי1J$9ed732e9-80f2-4be9-80f3-ad2a88ca40fe
+}
+java:S1161?":Add the "@Override" annotation above this method signature(ֱ»›ך8½ûןי1J$0bb5fd47-ccc8-4a87-8ce2-0884c86981d5
+}
+java:S1161I":Add the "@Override" annotation above this method signature(ֱ»›ך8½ûןי1J$9c45135c-bf28-42d4-853e-250eea55697a

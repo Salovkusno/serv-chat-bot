@@ -1,0 +1,15 @@
+
+l
+java:S1104"QMake laser a static final constant or non-public and provide accessors if needed.(’ÉÑşÿÿÿÿ
+m
+java:S1104"RMake rocket a static final constant or non-public and provide accessors if needed.(à™Ûöÿÿÿÿÿ
+s
+java:S1104"XMake angelicaKiss a static final constant or non-public and provide accessors if needed.(ËÈÇàøÿÿÿÿ
+h
+java:S1104"RMake health a static final constant or non-public and provide accessors if needed.(åË¶
+F
+java:S1444"+Make this "public static laser" field final(’ÉÑşÿÿÿÿ
+G
+java:S1444",Make this "public static rocket" field final(à™Ûöÿÿÿÿÿ
+M
+java:S1444"2Make this "public static angelicaKiss" field final(ËÈÇàøÿÿÿÿ

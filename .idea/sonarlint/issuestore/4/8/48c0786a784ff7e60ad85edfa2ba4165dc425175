@@ -1,0 +1,11 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+D
+java:S3985"'Remove this unused private "Cat" class.(•èÔÒ8õëÿĞç1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8Õı€Ñç1
+I
+java:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8¾Ñç1
+L
+java:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8®¿Ñç1

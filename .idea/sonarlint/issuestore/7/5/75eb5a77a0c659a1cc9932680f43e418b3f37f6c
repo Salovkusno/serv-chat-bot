@@ -1,0 +1,8 @@
+
+‰
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(ˆä¿æüÿÿÿÿ8òÊßå1
+L
+java:S1611"/Remove the parentheses around the "s" parameter(€ÎàÖ8üÊßå1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(€ÎàÖ8½ÔÊßå1
+G	java:S106"+Replace this use of System.out by a logger.(€ÎàÖ8ıÊßå1
